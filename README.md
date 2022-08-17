@@ -5,7 +5,7 @@ yarn install
 .env 설정
 
 PORT=3000
-MONGO_URI=mongodb://localhost/DB
+MONGO_URI=mongodb://localhost/{사용자 DB}
 
 yarn start:dev dev모드
 
