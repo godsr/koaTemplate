@@ -1,4 +1,4 @@
-# koaTemplet
+# koaTemplate
 
 yarn install
 
